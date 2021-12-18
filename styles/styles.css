@@ -96,8 +96,7 @@ h1{
     font-size: 1.2em;
 }
 body{
-    background-image: url("/imagenes/logo2.jpg");
-    background-repeat: url(/imagenes/logo2.jpg);
+    background-color: white ;
 }
 .card{
     border: none;
